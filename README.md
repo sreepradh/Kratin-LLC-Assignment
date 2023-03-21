@@ -25,6 +25,10 @@ Adding a todo is one of the feature that i have implemented like methoined the t
 ## Live Implementation.
 Please follow this link for the Live implementation => (checklistkratin.ccbp.tech)
 
+## Usage
+
+Create a folder and add the 3 files index.html, index.css and index.js in your choice of ide and run/preview the index.html file in order to look into the implementation or you can directly check the implementation using the link provided in live implementation.
+
 ## Future Goals
 
 This project can be further extended by adding additional features like searching a particular todo from our todo list,categorising the todo's based on completed, pending etc. Finally, we can also add Remainders and alerts where notifications will be sent upon particular time.
